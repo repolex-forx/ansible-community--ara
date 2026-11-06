@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/ara/commit/8aa994d1e5a254e3994819b2f799c79dbc9f77e6",
       "git:hexsha": "8aa994d1e5a254e3994819b2f799c79dbc9f77e6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.8.0rc1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.8.0rc1",
+      "repolex:parsedAt": "2026-11-06T17:49:02.956457+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/ara/commit/1eb171a732fe19e61e012bd26000ca316da2373f",
