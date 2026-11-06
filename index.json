@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "ara",
+  "versions": [
+    {
+      "commit": "8aa994d1e5a254e3994819b2f799c79dbc9f77e6",
+      "tag": "1.8.0",
+      "parsed_at": "2026-11-06T17:49:02.957653+00:00"
+    }
+  ]
+}
